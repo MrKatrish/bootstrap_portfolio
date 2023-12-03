@@ -1,0 +1,135 @@
+/* General Body Styles */
+body {
+  padding-top: 56px;
+  padding-bottom: 3rem;
+  color: aliceblue;
+  background-image: url('../images/hollowed-boxes.svg'); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+  font-family: "Raleway", sans-serif;
+}
+
+/* Animation Keyframes */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Fade-in Animation for h2 */
+h2 {
+  opacity: 0;
+  animation: fadeInUp 1.5s ease-out 0.5s forwards;
+}
+
+/* Navbar Dropdown Styles */
+.navbar-nav .dropdown-menu {
+  background-color: #487346;
+}
+
+.navbar-nav .dropdown-menu .dropdown-item {
+  color: aliceblue;
+}
+
+/* Hover Styles for Navbar Dropdown Items */
+.navbar-nav:hover .dropdown-menu:hover .dropdown-item:hover {
+  color: black;
+  background-color: #B6CC76;
+}
+
+/* Hover Styles for Navbar Dropdown Links */
+.navbar-nav .nav-item.dropdown:hover .nav-link,
+.navbar-nav .nav-item.dropdown:focus-within .nav-link {
+  background-color: #B6CC76; 
+  color: black;
+}
+
+/* Styles for Navbar Dropdown Links */
+.navbar-nav .nav-item.dropdown .nav-link {
+  background-color: transparent; 
+  color: aliceblue;
+  border: 2px inset black;
+}
+
+/* Hero Section Styles */
+#hero {
+  margin-top: 30px;
+}
+
+/* Custom Border Styles */
+.custom-border {
+  border: 3px solid #000; 
+  border-radius: 50%; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+}
+
+/* Skills Section Icon Styles */
+#my-skills .skill-icon {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border: 3px solid #000; 
+  border-radius: 50%; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+}
+
+/* Tertiary Background Color */
+.bg-body-tertiary {
+  background-color: #487346 !important;
+}
+
+/* Card Styles */
+.card {
+  background-color: #89CC7C !important;
+  color: aliceblue;
+  border: 1px solid #000;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: border 1s ease, box-shadow 0.3s ease;
+}
+
+/* Button Styles */
+.btn {
+  background-color: #487346;
+  border: 2px inset black;
+  color: aliceblue;
+}
+
+/* Hover Styles for Buttons */
+.btn:hover {
+  background-color: #B6CC76;
+  border: 2px inset black;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
+}
+
+/* Margin Styles for Navbar Links */
+.navbar-nav.ms-auto .nav-link {
+  margin-right: 10px;
+}
+
+/* Text Color Styles for Spans */
+span {
+  color: aliceblue;
+}
+
+/* Hover Styles for Text Links */
+a.text-decoration-none:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+/* Hover Styles for Cards */
+.card:hover {
+  border: 2px solid #000;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  transform: scale(1.05);
+  transition: transform 1s ease;
+}
