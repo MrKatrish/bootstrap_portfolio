@@ -56,13 +56,13 @@ Feel free to explore my portfolio to learn more about me and my work. Click on t
 - Included an About Me section within the same row with Contact.
 - Shared relevant information about yourself to establish a personal connection.
 - Provided contact details or links for potential collaboration or inquiries.
-6. Footer Section**
+6. **Footer Section**
 - Applied a box shadow upon hover for a subtle yet visually appealing effect on buttons.
 - Ensured a polished and professional look for the overall portfolio.
 
 ## Screenshots
 
-
+![Alt text](webpagescreenshot-1.png)
 
 ## Credits
 
