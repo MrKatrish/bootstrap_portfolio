@@ -64,6 +64,8 @@ Feel free to explore my portfolio to learn more about me and my work. Click on t
 
 ![Alt text](webpagescreenshot-1.png)
 
+https://mrkatrish.github.io/third_week_homework/
+
 ## Credits
 
 Thanks for help to my collagues for explaining and directing me to the right path. Many thanks to edX instructor and TAs for taking great care of me.
