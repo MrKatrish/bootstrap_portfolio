@@ -36,29 +36,29 @@ Feel free to explore my portfolio to learn more about me and my work. Click on t
 ## Features
 
 1. **Navigation Bar**
--Implemented a responsive navigation bar at the top of the webpage.
--Utilized Bootstrap's documentation for navbar creation.
--Included relevant links leading to different sections of the portfolio.
--Ensured seamless navigation with links directing users to specific sections.
+- Implemented a responsive navigation bar at the top of the webpage.
+- Utilized Bootstrap's documentation for navbar creation.
+- Included relevant links leading to different sections of the portfolio.
+- Ensured seamless navigation with links directing users to specific sections.
 2. **Hero Section**
--Created an engaging hero section with a jumbotron featuring a professional picture.
--Included essential personal information such as my name.
--Crafted a visually appealing layout to make a memorable first impression.
+- Created an engaging hero section with a jumbotron featuring a professional picture.
+- Included essential personal information such as my name.
+- Crafted a visually appealing layout to make a memorable first impression.
 3. **Work Section**
--Utilized Bootstrap cards for each project, providing a clean and organized display.
--Incorporated placeholder images using placehold.co for visual representation.
--Included brief project descriptions for an overview of your work.
--Linked each project to relevant class project work for further exploration.
+- Utilized Bootstrap cards for each project, providing a clean and organized display.
+- Incorporated placeholder images using placehold.co for visual representation.
+- Included brief project descriptions for an overview of your work.
+- Linked each project to relevant class project work for further exploration.
 4. **Skills Section**
--Listed out the skills i know from my bootcamp.
--Organized the skills in a clear and readable format for easy comprehension.
+- Listed out the skills i know from my bootcamp.
+- Organized the skills in a clear and readable format for easy comprehension.
 5. **About/Contact Section**
--Included an About Me section within the same row with Contact.
--Shared relevant information about yourself to establish a personal connection.
--Provided contact details or links for potential collaboration or inquiries.
+- Included an About Me section within the same row with Contact.
+- Shared relevant information about yourself to establish a personal connection.
+- Provided contact details or links for potential collaboration or inquiries.
 6. Footer Section**
--Applied a box shadow upon hover for a subtle yet visually appealing effect on buttons.
--Ensured a polished and professional look for the overall portfolio.
+- Applied a box shadow upon hover for a subtle yet visually appealing effect on buttons.
+- Ensured a polished and professional look for the overall portfolio.
 
 ## Screenshots
 
