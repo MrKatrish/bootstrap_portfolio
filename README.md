@@ -70,7 +70,7 @@ Thanks for help to my collagues for explaining and directing me to the right pat
 
 Background: https://www.svgbackgrounds.com/
 
-Icons for footer: takrn from Bootstrap
+Icons for footer: taken from Bootstrap
 
 ## License
 
