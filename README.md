@@ -2,8 +2,7 @@
 
 ## Description
 
-Welcome to my portfolio! This project was developed as part of a bootcamp assignment to create a professional portfolio that caters to the needs of hiring front-end developers. My motivation for creating this portfolio was driven by the desire to establish a strong online presence and showcase my skills and projects to potential employers. Throughout the development of this project, I gained valuable experience in creating a responsive and visually appealing web design. I enhanced my understanding of HTML andCSS to implement smooth navigation, responsive layouts, and interactive features.
-
+Welcome to my portfolio! This marks my second portfolio creation utilizing Bootstrap. This project was undertaken as part of a bootcamp assignment, aiming to craft a professional portfolio tailored for prospective front-end developer roles. I developed this portfolio with the goal of establishing a robust online presence and highlighting my skills and projects to potential employers. During the development process, I deepened my expertise in creating responsive and visually engaging web designs. I further honed my understanding of HTML and CSS to implement seamless navigation, responsive layouts, and interactive features.
 
 ## Table of Contents
 
